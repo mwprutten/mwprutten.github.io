@@ -4,8 +4,8 @@
     <name>Flights</name>
     <Style id="line-FF5252-1200-nodesc-normal">
       <LineStyle>
-        <color>ff5252ff</color>
-        <width>1.2</width>
+        <color>ff0000ff</color>
+        <width>2</width>
       </LineStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
@@ -13,8 +13,8 @@
     </Style>
     <Style id="line-FF5252-1200-nodesc-highlight">
       <LineStyle>
-        <color>ff5252ff</color>
-        <width>1.8</width>
+        <color>ff0000ff</color>
+        <width>2</width>
       </LineStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
