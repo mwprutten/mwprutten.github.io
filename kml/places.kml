@@ -7,9 +7,9 @@
         <color>ff387109</color>
         <scale>1</scale>
         <Icon>
-          <href>img/marker-icon.png</href>
+          <href>img/marker.png</href>
         </Icon>
-        <hotSpot x="13" xunits="pixels" y="2" yunits="insetPixels"/>
+        <hotSpot x="8" xunits="pixels" y="2" yunits="insetPixels"/>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -23,9 +23,9 @@
         <color>ff387109</color>
         <scale>1</scale>
         <Icon>
-          <href>img/marker-icon.png</href>
+          <href>img/marker.png</href>
         </Icon>
-        <hotSpot x="13" xunits="pixels" y="2" yunits="insetPixels"/>
+        <hotSpot x="8" xunits="pixels" y="2" yunits="insetPixels"/>
       </IconStyle>
       <LabelStyle>
         <scale>1</scale>
