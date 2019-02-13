@@ -10,7 +10,10 @@
 	<div style="width:100%; height:100%" id="map"></div>
 	<script type='text/javascript'>
 		var map = new L.Map('map', {center: new L.LatLng(0, 0), zoom: 11});
-		var osm = new L.TileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+		var Esri_OceanBasemap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Ocean_Basemap/MapServer/tile/{z}/{y}/{x}', {
+			attribution: 'Esri',
+			maxZoom: 13
+		});
 		var places = new L.KML("kml/places.kml", {async: true});
 		places.on("loaded", function(e) {
 			map.fitBounds(e.target.getBounds());
@@ -19,9 +22,9 @@
 		flights.on("loaded", function(e) {
 			map.fitBounds(e.target.getBounds());
 		});
+		map.addLayer(Esri_OceanBasemap);
 		map.addLayer(places);
 		map.addLayer(flights);
-		map.addLayer(osm);
 		map.addControl(new L.Control.Layers({}, {'Places':places, 'Flights':flights}));
 	</script>
 </body>
