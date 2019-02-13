@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Places</name>
-    <Style id="icon-1899-097138-nodesc-normal">
+    <Style id="icon-1499-097138-nodesc-normal">
       <IconStyle>
         <color>ff387109</color>
         <scale>1</scale>
@@ -18,7 +18,7 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="icon-1899-097138-nodesc-highlight">
+    <Style id="icon-1499-097138-nodesc-highlight">
       <IconStyle>
         <color>ff387109</color>
         <scale>1</scale>
@@ -34,19 +34,19 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="icon-1899-097138-nodesc">
+    <StyleMap id="icon-1499-097138-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#icon-1899-097138-nodesc-normal</styleUrl>
+        <styleUrl>#icon-1499-097138-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#icon-1899-097138-nodesc-highlight</styleUrl>
+        <styleUrl>#icon-1499-097138-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Placemark>
       <name>Langkawi</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           99.75824,6.351074,0
@@ -55,7 +55,7 @@
     </Placemark>
     <Placemark>
       <name>Yosemite National Park</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -119.58511,37.745712,0
@@ -64,7 +64,7 @@
     </Placemark>
     <Placemark>
       <name>Puerto López</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -80.810356,-1.560754,0
@@ -73,7 +73,7 @@
     </Placemark>
     <Placemark>
       <name>Medellín</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -75.56297,6.251038,0
@@ -82,7 +82,7 @@
     </Placemark>
     <Placemark>
       <name>Máncora</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -80.9686,-4.163196,0
@@ -91,7 +91,7 @@
     </Placemark>
     <Placemark>
       <name>Erawan National Park</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           99.1443,14.376134,0
@@ -100,7 +100,7 @@
     </Placemark>
     <Placemark>
       <name>Taganga</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -74.19016,11.269027,0
@@ -109,7 +109,7 @@
     </Placemark>
     <Placemark>
       <name>Bucaramanga</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -73.128265,7.123008,0
@@ -118,7 +118,7 @@
     </Placemark>
     <Placemark>
       <name>Puno</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -70.020424,-15.842083,0
@@ -127,7 +127,7 @@
     </Placemark>
     <Placemark>
       <name>Trujillo</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -79.0288,-8.112001,0
@@ -136,7 +136,7 @@
     </Placemark>
     <Placemark>
       <name>Cartagena</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -75.53431,10.415437,0
@@ -145,7 +145,7 @@
     </Placemark>
     <Placemark>
       <name>Paris</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           2.349401,48.857037,0
@@ -154,7 +154,7 @@
     </Placemark>
     <Placemark>
       <name>London</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -0.096654,51.51924,0
@@ -163,7 +163,7 @@
     </Placemark>
     <Placemark>
       <name>Killarney</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -9.51107,52.058296,0
@@ -172,7 +172,7 @@
     </Placemark>
     <Placemark>
       <name>Antwerp</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           4.409642,51.219032,0
@@ -181,7 +181,7 @@
     </Placemark>
     <Placemark>
       <name>Surat Thani</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           99.33311,9.14011,0
@@ -190,7 +190,7 @@
     </Placemark>
     <Placemark>
       <name>Mechelen</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           4.478245,51.02455,0
@@ -199,7 +199,7 @@
     </Placemark>
     <Placemark>
       <name>Ipiales</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -77.64064,0.82173,0
@@ -208,7 +208,7 @@
     </Placemark>
     <Placemark>
       <name>Pergine Valsugana</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           11.239557,46.067978,0
@@ -217,7 +217,7 @@
     </Placemark>
     <Placemark>
       <name>San Francisco</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -122.41579,37.778934,0
@@ -226,7 +226,7 @@
     </Placemark>
     <Placemark>
       <name>Reine</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           13.091608,67.93469,0
@@ -235,7 +235,7 @@
     </Placemark>
     <Placemark>
       <name>Khuraburi</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           98.41532,9.193966,0
@@ -244,7 +244,7 @@
     </Placemark>
     <Placemark>
       <name>Las Vegas</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -115.17208,36.114304,0
@@ -253,7 +253,7 @@
     </Placemark>
     <Placemark>
       <name>Gangtok</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           88.61667,27.33333,0
@@ -262,7 +262,7 @@
     </Placemark>
     <Placemark>
       <name>La Paz</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -68.14605,-16.49827,0
@@ -271,7 +271,7 @@
     </Placemark>
     <Placemark>
       <name>Düsseldorf</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           6.778337,51.223465,0
@@ -280,7 +280,7 @@
     </Placemark>
     <Placemark>
       <name>Köln</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           6.959839,50.939663,0
@@ -289,7 +289,7 @@
     </Placemark>
     <Placemark>
       <name>Barcelona</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           2.169576,41.385597,0
@@ -298,7 +298,7 @@
     </Placemark>
     <Placemark>
       <name>Pelling</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           88.23384,27.301764,0
@@ -307,7 +307,7 @@
     </Placemark>
     <Placemark>
       <name>Yogyakarta</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           110.36977,-7.800425,0
@@ -316,7 +316,7 @@
     </Placemark>
     <Placemark>
       <name>Seoul</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           127.00857,37.477543,0
@@ -325,7 +325,7 @@
     </Placemark>
     <Placemark>
       <name>Joshua Tree National Park</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -115.829544,33.884666,0
@@ -334,7 +334,7 @@
     </Placemark>
     <Placemark>
       <name>Bogota</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -74.08038,4.623524,0
@@ -343,7 +343,7 @@
     </Placemark>
     <Placemark>
       <name>Cork</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -8.474197,51.891148,0
@@ -352,7 +352,7 @@
     </Placemark>
     <Placemark>
       <name>Phnom Penh</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           104.92013,11.563291,0
@@ -361,7 +361,7 @@
     </Placemark>
     <Placemark>
       <name>Chiclayo</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -79.84112,-6.775684,0
@@ -370,7 +370,7 @@
     </Placemark>
     <Placemark>
       <name>Dublin</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -6.25341,53.345966,0
@@ -379,7 +379,7 @@
     </Placemark>
     <Placemark>
       <name>Berkeley</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -122.29168,37.86867,0
@@ -388,7 +388,7 @@
     </Placemark>
     <Placemark>
       <name>Budapest</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           19.0507,47.49346,0
@@ -397,7 +397,7 @@
     </Placemark>
     <Placemark>
       <name>San Pedro de Atacama</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -68.19538,-22.910463,0
@@ -406,7 +406,7 @@
     </Placemark>
     <Placemark>
       <name>Mai Châu</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           105.07837,20.654125,0
@@ -415,7 +415,7 @@
     </Placemark>
     <Placemark>
       <name>Foz do Iguaçu</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -54.56604,-25.51356,0
@@ -424,7 +424,7 @@
     </Placemark>
     <Placemark>
       <name>Tokyo</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           139.759,35.680565,0
@@ -433,7 +433,7 @@
     </Placemark>
     <Placemark>
       <name>Huanchaco</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -79.122284,-8.080804,0
@@ -442,7 +442,7 @@
     </Placemark>
     <Placemark>
       <name>Flåm</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           7.11667,60.8333,0
@@ -451,7 +451,7 @@
     </Placemark>
     <Placemark>
       <name>Paracas</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -76.24803,-13.833746,0
@@ -460,7 +460,7 @@
     </Placemark>
     <Placemark>
       <name>Piura</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -80.63115,-5.199983,0
@@ -469,7 +469,7 @@
     </Placemark>
     <Placemark>
       <name>Hastings</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           0.575638,50.855213,0
@@ -478,7 +478,7 @@
     </Placemark>
     <Placemark>
       <name>Jeonju</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           127.14984,35.81467,0
@@ -487,7 +487,7 @@
     </Placemark>
     <Placemark>
       <name>Copenhagen</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           12.580593,55.67502,0
@@ -496,7 +496,7 @@
     </Placemark>
     <Placemark>
       <name>Singapore</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           103.85111,1.285801,0
@@ -505,7 +505,7 @@
     </Placemark>
     <Placemark>
       <name>Ayutthaya</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           100.5778,14.355281,0
@@ -514,7 +514,7 @@
     </Placemark>
     <Placemark>
       <name>Cuenca</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -78.98476,-2.881429,0
@@ -523,7 +523,7 @@
     </Placemark>
     <Placemark>
       <name>Quito</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -78.5416,-0.257213,0
@@ -532,7 +532,7 @@
     </Placemark>
     <Placemark>
       <name>Uyuni</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -66.821465,-20.458752,0
@@ -541,7 +541,7 @@
     </Placemark>
     <Placemark>
       <name>Manta</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -80.697556,-0.980747,0
@@ -550,7 +550,7 @@
     </Placemark>
     <Placemark>
       <name>Turku</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           22.262772,60.45225,0
@@ -559,7 +559,7 @@
     </Placemark>
     <Placemark>
       <name>Trondheim</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           10.395587,63.42974,0
@@ -568,7 +568,7 @@
     </Placemark>
     <Placemark>
       <name>Å i Lofoten</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           12.986285,67.87985,0
@@ -577,7 +577,7 @@
     </Placemark>
     <Placemark>
       <name>Doolin</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -9.384081,53.012756,0
@@ -586,7 +586,7 @@
     </Placemark>
     <Placemark>
       <name>Kuala Lumpur</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           101.69717,3.156802,0
@@ -595,7 +595,7 @@
     </Placemark>
     <Placemark>
       <name>Strasbourg</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           7.7636,48.583153,0
@@ -604,7 +604,7 @@
     </Placemark>
     <Placemark>
       <name>Santo Domingo</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -79.16897,-0.256805,0
@@ -613,7 +613,7 @@
     </Placemark>
     <Placemark>
       <name>Probolinggo</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           113.21537,-7.753311,0
@@ -622,7 +622,7 @@
     </Placemark>
     <Placemark>
       <name>Busan</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           129.03625,35.115417,0
@@ -631,7 +631,7 @@
     </Placemark>
     <Placemark>
       <name>Chiang Rai</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           99.834435,19.90472,0
@@ -640,7 +640,7 @@
     </Placemark>
     <Placemark>
       <name>Palm Springs</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -116.54652,33.832108,0
@@ -649,7 +649,7 @@
     </Placemark>
     <Placemark>
       <name>Aarhus</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           10.203143,56.155666,0
@@ -658,7 +658,7 @@
     </Placemark>
     <Placemark>
       <name>Venice</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           12.323647,45.439087,0
@@ -667,7 +667,7 @@
     </Placemark>
     <Placemark>
       <name>Abu Dhabi</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           54.365982,24.469482,0
@@ -676,7 +676,7 @@
     </Placemark>
     <Placemark>
       <name>Prague</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           14.427817,50.076847,0
@@ -685,7 +685,7 @@
     </Placemark>
     <Placemark>
       <name>Luleå</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           22.14918,65.584274,0
@@ -694,7 +694,7 @@
     </Placemark>
     <Placemark>
       <name>Helsinki</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           24.940203,60.16798,0
@@ -703,7 +703,7 @@
     </Placemark>
     <Placemark>
       <name>Incheon</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           126.63551,37.478355,0
@@ -712,7 +712,7 @@
     </Placemark>
     <Placemark>
       <name>Puerto Iguazú</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -54.570644,-25.598528,0
@@ -721,7 +721,7 @@
     </Placemark>
     <Placemark>
       <name>Hat Yai</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           100.47311,7.007869,0
@@ -730,7 +730,7 @@
     </Placemark>
     <Placemark>
       <name>Gyeongju</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           129.21255,35.84246,0
@@ -739,7 +739,7 @@
     </Placemark>
     <Placemark>
       <name>Plitvice Lakes National Park</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           15.582012,44.8654,0
@@ -748,7 +748,7 @@
     </Placemark>
     <Placemark>
       <name>Bodø</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           14.399212,67.28653,0
@@ -757,7 +757,7 @@
     </Placemark>
     <Placemark>
       <name>Arica</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -70.30469,-18.47291,0
@@ -766,7 +766,7 @@
     </Placemark>
     <Placemark>
       <name>Split</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           16.442886,43.508633,0
@@ -775,7 +775,7 @@
     </Placemark>
     <Placemark>
       <name>Narvik</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           17.42745,68.43826,0
@@ -784,7 +784,7 @@
     </Placemark>
     <Placemark>
       <name>Dubrovnik</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           18.079966,42.653934,0
@@ -793,7 +793,7 @@
     </Placemark>
     <Placemark>
       <name>Bruges</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           3.22457,51.208893,0
@@ -802,7 +802,7 @@
     </Placemark>
     <Placemark>
       <name>Siem Reap</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           103.86083,13.363545,0
@@ -811,7 +811,7 @@
     </Placemark>
     <Placemark>
       <name>Marburg</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           8.756567,50.799725,0
@@ -820,7 +820,7 @@
     </Placemark>
     <Placemark>
       <name>Sharm El Sheikh</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           34.308937,27.873486,0
@@ -829,7 +829,7 @@
     </Placemark>
     <Placemark>
       <name>Manchester</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -2.247661,53.476948,0
@@ -838,7 +838,7 @@
     </Placemark>
     <Placemark>
       <name>Athens</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           23.721302,37.97698,0
@@ -847,7 +847,7 @@
     </Placemark>
     <Placemark>
       <name>Armenia</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -75.70772,4.529399,0
@@ -856,7 +856,7 @@
     </Placemark>
     <Placemark>
       <name>Rovaniemi</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           25.726658,66.500015,0
@@ -865,7 +865,7 @@
     </Placemark>
     <Placemark>
       <name>Giza</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           31.21381,30.01076,0
@@ -874,7 +874,7 @@
     </Placemark>
     <Placemark>
       <name>Popayán</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -76.61038,2.443569,0
@@ -883,7 +883,7 @@
     </Placemark>
     <Placemark>
       <name>Cairo</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           31.24278,30.04578,0
@@ -892,7 +892,7 @@
     </Placemark>
     <Placemark>
       <name>Larochette</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           6.2197,49.7762,0
@@ -901,7 +901,7 @@
     </Placemark>
     <Placemark>
       <name>Zadar</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           15.228143,44.112686,0
@@ -910,7 +910,7 @@
     </Placemark>
     <Placemark>
       <name>Ko Tao</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           99.83497,10.08735,0
@@ -919,7 +919,7 @@
     </Placemark>
     <Placemark>
       <name>Santa Cruz</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -63.17565,-17.798384,0
@@ -928,7 +928,7 @@
     </Placemark>
     <Placemark>
       <name>Ayacucho</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -74.22641,-13.160582,0
@@ -937,7 +937,7 @@
     </Placemark>
     <Placemark>
       <name>Copacabana</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -69.088905,-16.16455,0
@@ -946,7 +946,7 @@
     </Placemark>
     <Placemark>
       <name>Nazca</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -74.93997,-14.82549,0
@@ -955,7 +955,7 @@
     </Placemark>
     <Placemark>
       <name>Stavanger</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           5.727673,58.96624,0
@@ -964,7 +964,7 @@
     </Placemark>
     <Placemark>
       <name>Chiang Mai</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           99.01729,18.800703,0
@@ -973,7 +973,7 @@
     </Placemark>
     <Placemark>
       <name>Vilcabamba</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -79.25,-4.25,0
@@ -982,7 +982,7 @@
     </Placemark>
     <Placemark>
       <name>Bangkok</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           100.53466,13.745595,0
@@ -991,7 +991,7 @@
     </Placemark>
     <Placemark>
       <name>Oslo</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           10.750844,59.91173,0
@@ -1000,7 +1000,7 @@
     </Placemark>
     <Placemark>
       <name>Åndalsnes</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           7.685833,62.55791,0
@@ -1009,7 +1009,7 @@
     </Placemark>
     <Placemark>
       <name>São Paulo</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -46.637535,-23.550455,0
@@ -1018,7 +1018,7 @@
     </Placemark>
     <Placemark>
       <name>Tromsø</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           18.956936,69.65052,0
@@ -1027,7 +1027,7 @@
     </Placemark>
     <Placemark>
       <name>Ko Samui</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           99.992584,9.488062,0
@@ -1036,7 +1036,7 @@
     </Placemark>
     <Placemark>
       <name>Pulau Pangkor</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           100.55774,4.227491,0
@@ -1045,7 +1045,7 @@
     </Placemark>
     <Placemark>
       <name>Abisko</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           18.832457,68.350945,0
@@ -1054,7 +1054,7 @@
     </Placemark>
     <Placemark>
       <name>Prachin Buri</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           101.578454,13.898127,0
@@ -1063,7 +1063,7 @@
     </Placemark>
     <Placemark>
       <name>Savonlinna</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           28.87812,61.870316,0
@@ -1072,7 +1072,7 @@
     </Placemark>
     <Placemark>
       <name>Frankfurt</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           8.675079,50.107586,0
@@ -1081,7 +1081,7 @@
     </Placemark>
     <Placemark>
       <name>Lima</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -77.03925,-12.072676,0
@@ -1090,7 +1090,7 @@
     </Placemark>
     <Placemark>
       <name>Campo Grande</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -54.618084,-20.444563,0
@@ -1099,7 +1099,7 @@
     </Placemark>
     <Placemark>
       <name>Cusco</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -71.96856,-13.521886,0
@@ -1108,7 +1108,7 @@
     </Placemark>
     <Placemark>
       <name>Ko Lipe</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           99.304886,6.488444,0
@@ -1117,7 +1117,7 @@
     </Placemark>
     <Placemark>
       <name>Arequipa</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -71.53407,-16.3982,0
@@ -1126,7 +1126,7 @@
     </Placemark>
     <Placemark>
       <name>Sukhothai</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           99.81686,17.008247,0
@@ -1135,7 +1135,7 @@
     </Placemark>
     <Placemark>
       <name>Ålesund</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           6.167996,62.470818,0
@@ -1144,7 +1144,7 @@
     </Placemark>
     <Placemark>
       <name>Ubud</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           115.25495,-8.504767,0
@@ -1153,7 +1153,7 @@
     </Placemark>
     <Placemark>
       <name>Machu Picchu</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -72.53369,-13.181424,0
@@ -1162,7 +1162,7 @@
     </Placemark>
     <Placemark>
       <name>Bergen</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           5.331452,60.38918,0
@@ -1171,7 +1171,7 @@
     </Placemark>
     <Placemark>
       <name>Shannon</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -8.88207,52.7107,0
@@ -1180,7 +1180,7 @@
     </Placemark>
     <Placemark>
       <name>Melaka</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           102.25327,2.206847,0
@@ -1189,7 +1189,7 @@
     </Placemark>
     <Placemark>
       <name>Death Valley National Park</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -117.02465,36.560394,0
@@ -1198,7 +1198,7 @@
     </Placemark>
     <Placemark>
       <name>Battle</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           0.541939,50.9209,0
@@ -1207,7 +1207,7 @@
     </Placemark>
     <Placemark>
       <name>Potosí</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -65.752716,-19.58582,0
@@ -1216,7 +1216,7 @@
     </Placemark>
     <Placemark>
       <name>Baños</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -78.41667,-1.4,0
@@ -1225,7 +1225,7 @@
     </Placemark>
     <Placemark>
       <name>Sucre</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -65.2626,-19.0339,0
@@ -1234,7 +1234,7 @@
     </Placemark>
     <Placemark>
       <name>Heidelberg</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           8.697485,49.40902,0
@@ -1243,7 +1243,7 @@
     </Placemark>
     <Placemark>
       <name>Banyuwangi</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           114.37312,-8.202316,0
@@ -1252,7 +1252,7 @@
     </Placemark>
     <Placemark>
       <name>Berlin</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           13.397209,52.51959,0
@@ -1261,7 +1261,7 @@
     </Placemark>
     <Placemark>
       <name>Los Angeles</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -118.23284,34.05106,0
@@ -1270,7 +1270,7 @@
     </Placemark>
     <Placemark>
       <name>Kuopio</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           27.677414,62.892387,0
@@ -1279,7 +1279,7 @@
     </Placemark>
     <Placemark>
       <name>Milan</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           9.189092,45.464787,0
@@ -1288,7 +1288,7 @@
     </Placemark>
     <Placemark>
       <name>Jakarta</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           106.84238,-6.202333,0
@@ -1297,7 +1297,7 @@
     </Placemark>
     <Placemark>
       <name>Guaruja</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -46.25648,-23.993752,0
@@ -1306,7 +1306,7 @@
     </Placemark>
     <Placemark>
       <name>Vienna</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           16.372383,48.208862,0
@@ -1315,7 +1315,7 @@
     </Placemark>
     <Placemark>
       <name>Khao Sok National Park</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           98.6989,8.970843,0
@@ -1324,7 +1324,7 @@
     </Placemark>
     <Placemark>
       <name>Moleson</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           7.0379,46.56127,0
@@ -1333,7 +1333,7 @@
     </Placemark>
     <Placemark>
       <name>Salento</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -75.56957,4.636355,0
@@ -1342,7 +1342,7 @@
     </Placemark>
     <Placemark>
       <name>Inisheer</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -9.52755,53.05793,0
@@ -1351,7 +1351,7 @@
     </Placemark>
     <Placemark>
       <name>Rome</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           12.495978,41.893623,0
@@ -1360,7 +1360,7 @@
     </Placemark>
     <Placemark>
       <name>Ko Kut</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           102.56728,11.648245,0
@@ -1369,7 +1369,7 @@
     </Placemark>
     <Placemark>
       <name>Stockholm</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           18.06151,59.330135,0
@@ -1378,7 +1378,7 @@
     </Placemark>
     <Placemark>
       <name>Dresden</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           13.73823,51.050453,0
@@ -1387,7 +1387,7 @@
     </Placemark>
     <Placemark>
       <name>Ko Lan</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           100.780266,12.918226,0
@@ -1396,7 +1396,7 @@
     </Placemark>
     <Placemark>
       <name>Agra</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           78.00142,27.193102,0
@@ -1405,7 +1405,7 @@
     </Placemark>
     <Placemark>
       <name>Brussels</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           4.351959,50.849632,0
@@ -1414,7 +1414,7 @@
     </Placemark>
     <Placemark>
       <name>Hong Kong</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           114.17359,22.309187,0
@@ -1423,7 +1423,7 @@
     </Placemark>
     <Placemark>
       <name>Darjeeling</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           88.26759,27.044767,0
@@ -1432,7 +1432,7 @@
     </Placemark>
     <Placemark>
       <name>Ko Phayam</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           98.4073,9.733432,0
@@ -1441,7 +1441,7 @@
     </Placemark>
     <Placemark>
       <name>Bonito</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -56.4819,-21.12111,0
@@ -1450,7 +1450,7 @@
     </Placemark>
     <Placemark>
       <name>Malaga</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -4.422782,36.718468,0
@@ -1459,7 +1459,7 @@
     </Placemark>
     <Placemark>
       <name>Rio de Janeiro</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -43.18954,-22.91301,0
@@ -1468,7 +1468,7 @@
     </Placemark>
     <Placemark>
       <name>Hanoi</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           105.84962,21.033333,0
@@ -1477,7 +1477,7 @@
     </Placemark>
     <Placemark>
       <name>Halong Bay</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           107.03013,20.964325,0
@@ -1486,7 +1486,7 @@
     </Placemark>
     <Placemark>
       <name>Innsbruck</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           11.39441,47.264565,0
@@ -1495,7 +1495,7 @@
     </Placemark>
     <Placemark>
       <name>Rurrenabaque</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -67.5292,-14.441995,0
@@ -1504,7 +1504,7 @@
     </Placemark>
     <Placemark>
       <name>Isla del Sol</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -69.16992,-16.019417,0
@@ -1513,7 +1513,7 @@
     </Placemark>
     <Placemark>
       <name>New Delhi</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           77.22978,28.612072,0
@@ -1522,7 +1522,7 @@
     </Placemark>
     <Placemark>
       <name>Ho Chi Minh City</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           106.62975,10.82293,0
@@ -1531,7 +1531,7 @@
     </Placemark>
     <Placemark>
       <name>Aguas Calientes</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -72.51582,-13.162849,0
@@ -1540,7 +1540,7 @@
     </Placemark>
     <Placemark>
       <name>Samaipata</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -63.8667,-18.15,0
@@ -1549,7 +1549,7 @@
     </Placemark>
     <Placemark>
       <name>Huaraz</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -77.52875,-9.52703,0
@@ -1558,7 +1558,7 @@
     </Placemark>
     <Placemark>
       <name>Panmunjom</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           126.676944,37.956111,0
@@ -1567,7 +1567,7 @@
     </Placemark>
     <Placemark>
       <name>Mu Ko Surin National Park</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           97.868119,9.434384,0
@@ -1576,7 +1576,7 @@
     </Placemark>
     <Placemark>
       <name>Trang</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           99.623933,7.564483,0
@@ -1585,7 +1585,7 @@
     </Placemark>
     <Placemark>
       <name>Penang</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           100.300135,5.465194,0
@@ -1594,7 +1594,7 @@
     </Placemark>
     <Placemark>
       <name>Lampang</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           99.49395,18.290503,0
@@ -1603,7 +1603,7 @@
     </Placemark>
     <Placemark>
       <name>Pai</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           98.451517,19.345634,0
@@ -1612,7 +1612,7 @@
     </Placemark>
     <Placemark>
       <name>Taoyuan</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           121.30098,24.993628,0
@@ -1621,7 +1621,7 @@
     </Placemark>
     <Placemark>
       <name>Tongluo Township</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           120.792458,24.448194,0
@@ -1630,7 +1630,7 @@
     </Placemark>
     <Placemark>
       <name>Taichung</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           120.673648,24.147736,0
@@ -1639,7 +1639,7 @@
     </Placemark>
     <Placemark>
       <name>Zhushan</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           120.68078,23.756832,0
@@ -1648,7 +1648,7 @@
     </Placemark>
     <Placemark>
       <name>Chiayi</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           120.449111,23.480075,0
@@ -1657,7 +1657,7 @@
     </Placemark>
     <Placemark>
       <name>Tainan</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           120.226876,22.9999,0
@@ -1666,7 +1666,7 @@
     </Placemark>
     <Placemark>
       <name>Hualien</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           121.601571,23.987159,0
@@ -1675,7 +1675,7 @@
     </Placemark>
     <Placemark>
       <name>Taipei</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           121.565427,25.032964,0
@@ -1684,7 +1684,7 @@
     </Placemark>
     <Placemark>
       <name>Mandalay</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           96.089103,21.958828,0
@@ -1693,7 +1693,7 @@
     </Placemark>
     <Placemark>
       <name>Pagan</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           94.858546,21.171727,0
@@ -1702,7 +1702,7 @@
     </Placemark>
     <Placemark>
       <name>Kalaw</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           96.562325,20.617611,0
@@ -1711,7 +1711,7 @@
     </Placemark>
     <Placemark>
       <name>Nyaungshwe</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           96.934332,20.659418,0
@@ -1720,7 +1720,7 @@
     </Placemark>
     <Placemark>
       <name>Yangon</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           96.195132,16.866069,0
@@ -1729,7 +1729,7 @@
     </Placemark>
     <Placemark>
       <name>Kota Kinabalu</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           116.073457,5.980408,0
@@ -1738,7 +1738,7 @@
     </Placemark>
     <Placemark>
       <name>Bandar Seri Begawan</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           114.939821,4.903052,0
@@ -1747,7 +1747,7 @@
     </Placemark>
     <Placemark>
       <name>Miri</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           113.991383,4.399493,0
@@ -1756,7 +1756,7 @@
     </Placemark>
     <Placemark>
       <name>Niah National Park</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           113.786884,3.798135,0
@@ -1765,7 +1765,7 @@
     </Placemark>
     <Placemark>
       <name>Kuching</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           110.378544,1.607681,0
@@ -1774,7 +1774,7 @@
     </Placemark>
     <Placemark>
       <name>Whangarei</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           174.315152,-35.710607,0
@@ -1783,7 +1783,7 @@
     </Placemark>
     <Placemark>
       <name>Auckland</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           174.763332,-36.84846,0
@@ -1792,7 +1792,7 @@
     </Placemark>
     <Placemark>
       <name>Pukenui</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           173.115602,-34.817149,0
@@ -1801,7 +1801,7 @@
     </Placemark>
     <Placemark>
       <name>Cape Reinga</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           172.677593,-34.426797,0
@@ -1810,7 +1810,7 @@
     </Placemark>
     <Placemark>
       <name>Kerikeri</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           173.947792,-35.22861,0
@@ -1819,7 +1819,7 @@
     </Placemark>
     <Placemark>
       <name>Waiheke island</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           175.02288,-36.786681,0
@@ -1828,7 +1828,7 @@
     </Placemark>
     <Placemark>
       <name>Whitianga</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           175.70044,-36.821829,0
@@ -1837,7 +1837,7 @@
     </Placemark>
     <Placemark>
       <name>Tauranga</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           176.16513,-37.687798,0
@@ -1846,7 +1846,7 @@
     </Placemark>
     <Placemark>
       <name>Rotorua</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           176.249746,-38.136848,0
@@ -1855,7 +1855,7 @@
     </Placemark>
     <Placemark>
       <name>Taupo</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           176.07021,-38.685692,0
@@ -1864,7 +1864,7 @@
     </Placemark>
     <Placemark>
       <name>Napier</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           176.912018,-39.492844,0
@@ -1873,7 +1873,7 @@
     </Placemark>
     <Placemark>
       <name>Turangi</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           175.808748,-38.989871,0
@@ -1882,7 +1882,7 @@
     </Placemark>
     <Placemark>
       <name>New Plymouth</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           174.075228,-39.055625,0
@@ -1891,7 +1891,7 @@
     </Placemark>
     <Placemark>
       <name>Wellington</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           174.776236,-41.28646,0
@@ -1900,7 +1900,7 @@
     </Placemark>
     <Placemark>
       <name><![CDATA[Xi'an]]></name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           108.967209,34.259774,0
@@ -1909,7 +1909,7 @@
     </Placemark>
     <Placemark>
       <name>Pingyao</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           112.176273,37.189559,0
@@ -1917,17 +1917,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Tsjoengking</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          106.551556,29.56301,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Tsjoengking</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <name>Chongqing</name>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           106.551556,29.56301,0
@@ -1936,25 +1927,7 @@
     </Placemark>
     <Placemark>
       <name>Chengdu</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          104.066801,30.572816,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Chengdu</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          104.066801,30.572816,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Chengdu</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           104.066801,30.572816,0
@@ -1963,7 +1936,7 @@
     </Placemark>
     <Placemark>
       <name>Dali</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           100.267638,25.606486,0
@@ -1972,7 +1945,7 @@
     </Placemark>
     <Placemark>
       <name>Kunming</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           102.832892,24.880095,0
@@ -1981,7 +1954,7 @@
     </Placemark>
     <Placemark>
       <name>Shenzhen</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           114.057865,22.543096,0
@@ -1990,7 +1963,7 @@
     </Placemark>
     <Placemark>
       <name>Guangzhou</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           113.264385,23.12911,0
@@ -1999,7 +1972,7 @@
     </Placemark>
     <Placemark>
       <name>Xiamen</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           118.089425,24.479834,0
@@ -2008,7 +1981,7 @@
     </Placemark>
     <Placemark>
       <name>Shanghai</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           121.473701,31.230416,0
@@ -2017,7 +1990,7 @@
     </Placemark>
     <Placemark>
       <name>Beijing</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           116.407395,39.904211,0
@@ -2026,7 +1999,7 @@
     </Placemark>
     <Placemark>
       <name>Gwangju</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           126.866811,35.123749,0
@@ -2035,7 +2008,7 @@
     </Placemark>
     <Placemark>
       <name>Gwangyang</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           127.716154,34.965237,0
@@ -2044,7 +2017,7 @@
     </Placemark>
     <Placemark>
       <name>Geoje</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           128.727399,34.868034,0
@@ -2053,7 +2026,7 @@
     </Placemark>
     <Placemark>
       <name>Daejeon</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           127.384548,36.350412,0
@@ -2062,7 +2035,7 @@
     </Placemark>
     <Placemark>
       <name>Osaka</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           135.519661,34.686297,0
@@ -2071,7 +2044,7 @@
     </Placemark>
     <Placemark>
       <name>Nagoya</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           136.906398,35.181446,0
@@ -2080,7 +2053,7 @@
     </Placemark>
     <Placemark>
       <name>Kyoto</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           135.768029,35.011636,0
@@ -2089,7 +2062,7 @@
     </Placemark>
     <Placemark>
       <name>Matsumoto</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           137.972034,36.238038,0
@@ -2098,7 +2071,7 @@
     </Placemark>
     <Placemark>
       <name>Fuji</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           138.768843,35.498234,0
@@ -2107,7 +2080,7 @@
     </Placemark>
     <Placemark>
       <name>Vientiane</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           102.633104,17.975706,0
@@ -2116,7 +2089,7 @@
     </Placemark>
     <Placemark>
       <name>Luang Prabang</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           102.131105,19.884986,0
@@ -2125,7 +2098,7 @@
     </Placemark>
     <Placemark>
       <name>Vang Vieng</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           102.446016,18.918453,0
@@ -2134,7 +2107,7 @@
     </Placemark>
     <Placemark>
       <name>Kathmandu</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           85.314127,27.715815,0
@@ -2143,7 +2116,7 @@
     </Placemark>
     <Placemark>
       <name>Pokhara</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           83.957363,28.217345,0
@@ -2152,7 +2125,7 @@
     </Placemark>
     <Placemark>
       <name>Ulleri</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           83.734375,28.358507,0
@@ -2161,7 +2134,7 @@
     </Placemark>
     <Placemark>
       <name>Ghode Pani</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           83.700113,28.402262,0
@@ -2170,7 +2143,7 @@
     </Placemark>
     <Placemark>
       <name>Landruk</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           83.825476,28.371354,0
@@ -2179,7 +2152,7 @@
     </Placemark>
     <Placemark>
       <name>Annapurna Base Camp</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           83.878069,28.530414,0
@@ -2188,7 +2161,7 @@
     </Placemark>
     <Placemark>
       <name>Machhapuchhre Base Camp</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           83.907668,28.526604,0
@@ -2197,7 +2170,7 @@
     </Placemark>
     <Placemark>
       <name>Sinuwa</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           83.832718,28.43013,0
@@ -2206,7 +2179,7 @@
     </Placemark>
     <Placemark>
       <name>Chomrong</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           83.818132,28.419288,0
@@ -2215,7 +2188,7 @@
     </Placemark>
     <Placemark>
       <name>Bamboo</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           83.845589,28.442334,0
@@ -2224,7 +2197,7 @@
     </Placemark>
     <Placemark>
       <name>Australian Camp</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           83.828591,28.304607,0
@@ -2233,7 +2206,7 @@
     </Placemark>
     <Placemark>
       <name>Christchurch</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           172.636225,-43.532054,0
@@ -2242,7 +2215,7 @@
     </Placemark>
     <Placemark>
       <name>Alexandra</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           169.317944,-45.252861,0
@@ -2251,7 +2224,7 @@
     </Placemark>
     <Placemark>
       <name>Te Anau</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           167.718053,-45.414452,0
@@ -2260,7 +2233,7 @@
     </Placemark>
     <Placemark>
       <name>Queenstown</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           168.662644,-45.031162,0
@@ -2269,7 +2242,7 @@
     </Placemark>
     <Placemark>
       <name>Tekapo</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           170.495509,-44.008673,0
@@ -2278,7 +2251,7 @@
     </Placemark>
     <Placemark>
       <name>Wanaka</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           169.13505,-44.698541,0
@@ -2287,7 +2260,7 @@
     </Placemark>
     <Placemark>
       <name>Franz Josef</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           170.183669,-43.389471,0
@@ -2296,7 +2269,7 @@
     </Placemark>
     <Placemark>
       <name>Milford Sound</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           167.89738,-44.641402,0
@@ -2305,7 +2278,7 @@
     </Placemark>
     <Placemark>
       <name>Punakaiki</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           171.336313,-42.108415,0
@@ -2314,7 +2287,7 @@
     </Placemark>
     <Placemark>
       <name>Nelson</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           173.282414,-41.272369,0
@@ -2323,7 +2296,7 @@
     </Placemark>
     <Placemark>
       <name>Motueka</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           173.010233,-41.124043,0
@@ -2332,7 +2305,7 @@
     </Placemark>
     <Placemark>
       <name>Havelock</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           173.767211,-41.28465,0
@@ -2341,7 +2314,7 @@
     </Placemark>
     <Placemark>
       <name>Picton</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           174.001004,-41.290593,0
@@ -2350,7 +2323,7 @@
     </Placemark>
     <Placemark>
       <name>Melbourne</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           144.963722,-37.815827,0
@@ -2359,7 +2332,7 @@
     </Placemark>
     <Placemark>
       <name>Hobart</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           147.327195,-42.882138,0
@@ -2368,7 +2341,7 @@
     </Placemark>
     <Placemark>
       <name>Launceston</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           147.144088,-41.433222,0
@@ -2377,7 +2350,7 @@
     </Placemark>
     <Placemark>
       <name>Sydney</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           151.209296,-33.86882,0
@@ -2386,7 +2359,7 @@
     </Placemark>
     <Placemark>
       <name>Katoomba</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           150.310529,-33.718105,0
@@ -2395,7 +2368,7 @@
     </Placemark>
     <Placemark>
       <name>Coolangatta</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           153.533333,-28.166667,0
@@ -2404,7 +2377,7 @@
     </Placemark>
     <Placemark>
       <name>Byron Bay</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           153.637716,-28.636302,0
@@ -2413,7 +2386,7 @@
     </Placemark>
     <Placemark>
       <name>Brisbane</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           153.025124,-27.469771,0
@@ -2422,7 +2395,7 @@
     </Placemark>
     <Placemark>
       <name>Flynn Reef</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           146.275218,-16.736342,0
@@ -2431,7 +2404,7 @@
     </Placemark>
     <Placemark>
       <name>Cairns</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           145.773523,-16.92482,0
@@ -2440,7 +2413,7 @@
     </Placemark>
     <Placemark>
       <name>Darwin</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           130.837776,-12.425766,0
@@ -2449,7 +2422,7 @@
     </Placemark>
     <Placemark>
       <name>Negombo</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           79.873675,7.200797,0
@@ -2458,7 +2431,7 @@
     </Placemark>
     <Placemark>
       <name>Hikkaduwa</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           80.106286,6.139468,0
@@ -2467,7 +2440,7 @@
     </Placemark>
     <Placemark>
       <name>Unawatuna</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           80.247924,6.012519,0
@@ -2476,7 +2449,7 @@
     </Placemark>
     <Placemark>
       <name>Tangalle</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           80.827392,6.045081,0
@@ -2485,7 +2458,7 @@
     </Placemark>
     <Placemark>
       <name>Udawalawa Junction</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           80.796337,6.410704,0
@@ -2494,7 +2467,7 @@
     </Placemark>
     <Placemark>
       <name>Ella</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           81.04825,6.875584,0
@@ -2503,7 +2476,7 @@
     </Placemark>
     <Placemark>
       <name>Nuwara Eliya</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           80.765633,6.962751,0
@@ -2512,7 +2485,7 @@
     </Placemark>
     <Placemark>
       <name>Kandy</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           80.636261,7.296784,0
@@ -2521,7 +2494,7 @@
     </Placemark>
     <Placemark>
       <name>Ipoh</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           101.077602,4.596341,0
@@ -2530,7 +2503,7 @@
     </Placemark>
     <Placemark>
       <name>Samut Prakan</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           100.631553,13.626618,0
@@ -2539,7 +2512,7 @@
     </Placemark>
     <Placemark>
       <name>Toronto</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -79.383184,43.653226,0
@@ -2548,7 +2521,7 @@
     </Placemark>
     <Placemark>
       <name>Niagara Falls</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -79.08152,43.095544,0
@@ -2557,7 +2530,7 @@
     </Placemark>
     <Placemark>
       <name>Brooklyn</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -73.93217,40.668586,0
@@ -2566,7 +2539,7 @@
     </Placemark>
     <Placemark>
       <name>Washington D.C.</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -77.049887,38.889055,0
@@ -2575,7 +2548,7 @@
     </Placemark>
     <Placemark>
       <name>Quebec City</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -71.222873,46.816813,0
@@ -2584,7 +2557,7 @@
     </Placemark>
     <Placemark>
       <name>Montreal</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -73.545024,45.559696,0
@@ -2593,7 +2566,7 @@
     </Placemark>
     <Placemark>
       <name>Ottawa</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -75.702765,45.412905,0
@@ -2602,7 +2575,7 @@
     </Placemark>
     <Placemark>
       <name>Johannesburg</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           28.041251,-26.145615,0
@@ -2611,7 +2584,7 @@
     </Placemark>
     <Placemark>
       <name>Kruger National Park</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           31.777939,-24.40338,0
@@ -2620,7 +2593,7 @@
     </Placemark>
     <Placemark>
       <name>Cape Town</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           18.416293,-33.915851,0
@@ -2629,7 +2602,7 @@
     </Placemark>
     <Placemark>
       <name>Oudtshoorn</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           22.205702,-33.579741,0
@@ -2638,7 +2611,7 @@
     </Placemark>
     <Placemark>
       <name>Bloukrans bridge</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           23.646402,-33.966896,0
@@ -2647,7 +2620,7 @@
     </Placemark>
     <Placemark>
       <name>Sedgefield</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           22.802108,-34.033217,0
@@ -2656,7 +2629,7 @@
     </Placemark>
     <Placemark>
       <name>Kinsale</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -8.521347,51.704576,0
@@ -2665,7 +2638,7 @@
     </Placemark>
     <Placemark>
       <name>Trogir</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           16.247925,43.520025,0
@@ -2674,7 +2647,7 @@
     </Placemark>
     <Placemark>
       <name>Mostar</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           17.794928,43.348135,0
@@ -2683,7 +2656,7 @@
     </Placemark>
     <Placemark>
       <name>Sarajevo</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           18.434273,43.856397,0
@@ -2692,7 +2665,7 @@
     </Placemark>
     <Placemark>
       <name>Belgrade</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           20.457685,44.814966,0
@@ -2701,7 +2674,7 @@
     </Placemark>
     <Placemark>
       <name>Istanbul</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           28.980434,41.004021,0
@@ -2710,7 +2683,7 @@
     </Placemark>
     <Placemark>
       <name>Göreme</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           34.830089,38.642279,0
@@ -2719,7 +2692,7 @@
     </Placemark>
     <Placemark>
       <name>Antalya</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           30.708825,36.88204,0
@@ -2728,7 +2701,7 @@
     </Placemark>
     <Placemark>
       <name>Bucharest</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           26.105988,44.427441,0
@@ -2737,7 +2710,7 @@
     </Placemark>
     <Placemark>
       <name>Brașov</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           25.625607,45.654048,0
@@ -2746,7 +2719,7 @@
     </Placemark>
     <Placemark>
       <name>Lisbon</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -9.141135,38.727837,0
@@ -2755,7 +2728,7 @@
     </Placemark>
     <Placemark>
       <name>Porto</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -8.586514,41.181204,0
@@ -2764,7 +2737,7 @@
     </Placemark>
     <Placemark>
       <name>Vila do Conde</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -8.741031,41.374416,0
@@ -2773,7 +2746,7 @@
     </Placemark>
     <Placemark>
       <name>Queens</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -73.89192,40.733518,0
@@ -2782,7 +2755,7 @@
     </Placemark>
     <Placemark>
       <name>Philadelphia</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -75.171621,39.940061,0
@@ -2791,7 +2764,7 @@
     </Placemark>
     <Placemark>
       <name>Nonthaburi</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           100.406331,13.8895,0
@@ -2800,7 +2773,7 @@
     </Placemark>
     <Placemark>
       <name>Phuket</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           98.309718,8.108637,0
@@ -2809,7 +2782,7 @@
     </Placemark>
     <Placemark>
       <name>Chepén</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           -79.428805,-7.227127,0
@@ -2818,7 +2791,7 @@
     </Placemark>
     <Placemark>
       <name>Dijon</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           5.03193310000006,47.3277426,0
@@ -2827,7 +2800,7 @@
     </Placemark>
     <Placemark>
       <name>Col de la Faucille</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           6.018914,46.370019,0
@@ -2836,7 +2809,7 @@
     </Placemark>
     <Placemark>
       <name>Quai de Versoix</name>
-      <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
         <coordinates>
           6.1699744,46.2767017,0
